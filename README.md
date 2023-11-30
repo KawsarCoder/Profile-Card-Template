@@ -17,5 +17,5 @@ Include a screenshot or a link to a live demo of your profile card design here.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/profile-card-design.git
+   git clone https://github.com/KawsarCoder/Profile-Card-Template.git
    ```
